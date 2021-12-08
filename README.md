@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @setya7
 - 👀 I’m interested in Mobile Enthusiast
 - 💞️ I’m looking to collaborate on My life
-- 📫 How to reach me 
-    <br />[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christyastama)
-
-
+- 📫 How to reach me
+    <br /> <br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christyastama)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -28,6 +26,10 @@ me.say_hi()
 [![Github Badge](https://img.shields.io/badge/-@nitryuu-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/nitryuu)](https://github.com/nitryuu)
 [![Github Badge](https://img.shields.io/badge/-@vstacked-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vstacked)](https://github.com/vstacked)
 [![Github Badge](https://img.shields.io/badge/-@FairezArch-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/FairezArch)](https://github.com/FairezArch)
+[![Github Badge](https://img.shields.io/badge/-@mohamadrizkyadhiasta-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/mohamadrizkyadhiasta)](https://github.com/mohamadrizkyadhiasta)
+[![Github Badge](https://img.shields.io/badge/-@yanuarizalk-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/yanuarizalk)](https://github.com/yanuarizalk)
+[![Github Badge](https://img.shields.io/badge/-@caturiud-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/caturiud)](https://github.com/caturiud)
+
 
 
 
